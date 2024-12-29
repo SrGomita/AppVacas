@@ -1,0 +1,11 @@
+{
+  "_locale": "es",
+  "app_title": "Control de Vacas",
+  "pregnant": "Preñada",
+  "non_pregnant": "Sin Preñar",
+  "calendar": "Calendario",
+  "settings": "Configuración",
+  "add_cow": "Agregar Vaca",
+  "change_language": "Cambiar Idioma",
+  "pregnancy_date": "Fecha de Embarazo"
+}

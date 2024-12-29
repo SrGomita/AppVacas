@@ -1,0 +1,11 @@
+{
+  "_locale": "en",
+  "app_title": "Cow Control",
+  "pregnant": "Pregnant",
+  "non_pregnant": "Non-pregnant",
+  "calendar": "Calendar",
+  "settings": "Settings",
+  "add_cow": "Add Cow",
+  "change_language": "Change Language",
+  "pregnancy_date": "Pregnancy Date"
+}
